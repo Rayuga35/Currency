@@ -14,7 +14,20 @@ If you want to run the code manually then go to your JAVA IDE Like--> ( VScode ,
 Go to the directory main-->src-->main.java
 
 #ScreenShot:-
-![1](https://user-images.githubusercontent.com/107392490/183481957-e8fa28e5-c4ed-409b-8ebd-fa351d8304f0.png)     ![2](https://user-images.githubusercontent.com/107392490/183481933-c547e357-e2e8-4425-b10a-6c3afa0f46f9.png)![3](https://user-images.githubusercontent.com/107392490/183481944-bced72f0-98c8-4603-a4fa-11f2418368ab.png)
+
+
+
+![1](https://user-images.githubusercontent.com/107392490/183481957-e8fa28e5-c4ed-409b-8ebd-fa351d8304f0.png) 
+
+
+![2](https://user-images.githubusercontent.com/107392490/183481933-c547e357-e2e8-4425-b10a-6c3afa0f46f9.png)
+
+
+![3](https://user-images.githubusercontent.com/107392490/183481944-bced72f0-98c8-4603-a4fa-11f2418368ab.png)
+
+
+
+
 
 
 # Contributing:-
